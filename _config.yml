@@ -1,0 +1,28 @@
+name: The Popples
+favicon: null
+layout_spectrum: 0.8338765886146575
+typography_spectrum: 0.6589387874118984
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8373215042520314
+  lightness: 0.8948387615382671
+  saturation: 0.13111067283898592
+  rhythmicContrast: 0.04258098057471216
+purpose: []
